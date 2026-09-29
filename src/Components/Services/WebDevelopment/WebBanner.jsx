@@ -1,4 +1,4 @@
-import Contact_Us from "../../../assets/all-images/Web_banner.png";
+import Contact_Us from "../../../assets/all-images/web_banner.png";
 //  default Application_banner;
 export const WebBanner = () => {
   return (
