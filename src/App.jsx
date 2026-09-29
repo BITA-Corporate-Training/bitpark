@@ -13,7 +13,7 @@ import Contact_us from "./Components/Contact_Us/ContactUs";
 import Contact_Banner from "./Components/Contact_Us/Contact_Banner";
 import MobileApp from "./Components/Services/MobileApplication/MobileApp";
 import Webdevelopment from "./Components/Services/WebDevelopment/Webdevelopment";
-import UIUX from "./Components/Services/UI/UIUX.JSX";
+import UIUX from "./Components/Services/UI/UIUX.jsx";
 import Application from "./Components/Services/ApplicationModernization/Application";
 import Testing from "./Components/Services/TestingQA/Testing";
 import ITConsultingService from "./Components/Services/ITConsultingService/ITConsulting_Service";
