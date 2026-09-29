@@ -1,4 +1,4 @@
-import Idea from "../../assets/all-images/idea.png";
+import Idea from "../../assets/all-images/Idea.png";
 import Project from "../../assets/all-images/Project.png";
 import Design from "../../assets/all-images/Design.png";
 import Code from "../../assets/all-images/Code.png";
